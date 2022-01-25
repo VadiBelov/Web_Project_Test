@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Web_Project_Test/static/css/main.df0f7d0f.chunk.css",
+    "main.js": "/Web_Project_Test/static/js/main.1c4ea699.chunk.js",
+    "main.js.map": "/Web_Project_Test/static/js/main.1c4ea699.chunk.js.map",
+    "runtime-main.js": "/Web_Project_Test/static/js/runtime-main.62feed52.js",
+    "runtime-main.js.map": "/Web_Project_Test/static/js/runtime-main.62feed52.js.map",
+    "static/css/2.2a7f5157.chunk.css": "/Web_Project_Test/static/css/2.2a7f5157.chunk.css",
+    "static/js/2.3a0a5b99.chunk.js": "/Web_Project_Test/static/js/2.3a0a5b99.chunk.js",
+    "static/js/2.3a0a5b99.chunk.js.map": "/Web_Project_Test/static/js/2.3a0a5b99.chunk.js.map",
+    "index.html": "/Web_Project_Test/index.html",
+    "static/css/2.2a7f5157.chunk.css.map": "/Web_Project_Test/static/css/2.2a7f5157.chunk.css.map",
+    "static/css/main.df0f7d0f.chunk.css.map": "/Web_Project_Test/static/css/main.df0f7d0f.chunk.css.map",
+    "static/js/2.3a0a5b99.chunk.js.LICENSE.txt": "/Web_Project_Test/static/js/2.3a0a5b99.chunk.js.LICENSE.txt",
+    "static/media/ExpertiseSection.scss": "/Web_Project_Test/static/media/Expertise__bg.aa0e267c.png",
+    "static/media/FormSection.scss": "/Web_Project_Test/static/media/Form__bg.7306d54c.png",
+    "static/media/TopSection.scss": "/Web_Project_Test/static/media/Top__bg.15f4e2fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62feed52.js",
+    "static/css/2.2a7f5157.chunk.css",
+    "static/js/2.3a0a5b99.chunk.js",
+    "static/css/main.df0f7d0f.chunk.css",
+    "static/js/main.1c4ea699.chunk.js"
+  ]
+}
